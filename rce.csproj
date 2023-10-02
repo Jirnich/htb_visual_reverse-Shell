@@ -6,6 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
    <ItemGroup>
-    <None Include="\\10.10.16.41\enox\app.config" />
+    <None Include="\\10.10.14.56\enox\app.config" />
   </ItemGroup>
 </Project>
